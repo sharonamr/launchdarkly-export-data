@@ -1,0 +1,12 @@
+{
+  "name": "ld-data",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/get-contexts-data.js"
+  },
+  "author": "sharonamr",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
