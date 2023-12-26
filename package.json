@@ -1,5 +1,5 @@
 {
-  "name": "ld-data",
+  "name": "launchdarkly-export-data",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
