@@ -6,6 +6,8 @@ This project will help you fetch `LaunchDarkly` contexts and evaluated tags, usi
 ```cmd
 git clone git@github.com:sharonamr/launchdarkly-export-data.git
 cd launchdarkly-export-data
+```
+```cmd
 npm i
 LD_API_TOKEN=<token> npm start
 ```
